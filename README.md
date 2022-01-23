@@ -16,7 +16,7 @@ mkdir thai2vec
 
 thai2vecNoSym.bin 
 download : https://drive.google.com/drive/folders/1p-rdPsDHswtUspuXYNpcxiFYOlkLtzIR
-thai2vecNoSym.bin copy in to foder => web-extration_2/thai2vec/
+thai2vecNoSym.bin copy into foder => web-extration_2/thai2vec/
 
 open terminal
 cd at /web-extration2
