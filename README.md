@@ -7,7 +7,7 @@ git clone https://github.com/pitiwatMIKE/web-extration_2.git
 ```
 
 ```
-cd cd web-extration_2
+cd web-extration_2
 ```
 
 ```
