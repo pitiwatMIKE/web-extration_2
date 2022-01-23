@@ -7,7 +7,7 @@ git clone https://github.com/pitiwatMIKE/web-extration_2.git
 ```
 
 ```
-cd web-extration_2.git
+cd cd web-extration_2
 ```
 
 ```
@@ -19,7 +19,7 @@ download : https://drive.google.com/drive/folders/1p-rdPsDHswtUspuXYNpcxiFYOlkLt
 thai2vecNoSym.bin copy into foder => web-extration_2/thai2vec/
 
 open terminal
-cd at /web-extration2
+cd at /web-extration_2
 ```
 conda create -n web_extraction python=3.7
 ```
