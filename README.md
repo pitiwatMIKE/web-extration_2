@@ -1,5 +1,4 @@
 # Web Extraction
-
 ## Install
 miniconda: https://docs.conda.io/en/latest/miniconda.html
 
