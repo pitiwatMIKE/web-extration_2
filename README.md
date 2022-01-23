@@ -1,6 +1,11 @@
 # Web Extraction
 
-## Download
+## Install
+miniconda: https://docs.conda.io/en/latest/miniconda.html
 
-## miniconda
-https://docs.conda.io/en/latest/miniconda.html
+```
+git clone https://github.com/pitiwatMIKE/web-extration_2.git
+```
+
+
+
